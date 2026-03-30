@@ -1,2 +1,3 @@
-# LOAN-PORTFOLIO-COHORT-ANALYSIS
+# 1. Executive Summary
 This report presents a comprehensive cohort analysis of the loan portfolio for the period March to May 2025, covering 11,643 loan applications. It covers five key areas: monthly trends, bureau score performance, geography, insurance type, and BRE decisions, providing data-driven insights and recommendations.
+# KEY FINDING: In this context, Bureau Score and BRE decision — is the single strongest predictor of loan performance. The 500-649 (Fair) score band is completely blocked (0% settlement), while the Red BRE category shows an 86% rejection rate, indicating well-calibrated risk controls. The primary opportunity lies in improving discharge approval rates and addressing the sharp May-25 settlement drop.
