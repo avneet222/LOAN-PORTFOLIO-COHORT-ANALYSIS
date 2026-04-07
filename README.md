@@ -1,3 +1,5 @@
+   <img width="842" height="205" alt="Screenshot 2026-04-07 at 15 45 41" src="https://github.com/user-attachments/assets/a6817d7e-56ff-47c3-88b3-dd745e501f57" />
+
 # 1. Executive Summary
 This report presents a comprehensive cohort analysis of the loan portfolio for the period March to May 2025, covering 11,643 loan applications. It covers five key areas: monthly trends, bureau score performance, geography, insurance type, and BRE decisions, providing data-driven insights and recommendations.
 
