@@ -22,11 +22,12 @@ Admission approval rates remain stable across all three months at approximately 
 
  Key Insights : The May-25 settlement rate of 4.8% is not a performance concern — it reflects pipeline immaturity. Loans admitted in May are still in progress. The Apr-25 average discharge amount of ₹29,547 is the highest across months, suggesting improved case quality or higher-value claims being processed.
 
- Recommendations
+Recommendations
 
-The May-25 settlement rate of 4.8% is not a performance concern — it reflects pipeline immaturity. Loans admitted in May are still in progress. The Apr-25 average discharge amount of ₹29,547 is the highest across months, suggesting improved case quality or higher-value claims being processed.
 ✓ Monitor May-25 cohort settlement rate weekly as the month matures — set a benchmark of ≥50% by end of June.
+
 ✓ Investigate the drop in discharge approval rate from March (56.1%) to April (51.3%) — a declining trend in an otherwise growing volume month warrants review.
+
 ✓ Use the March cohort as the baseline for settlement benchmarking since it is the most mature cohort with complete data.
 # 3. Bureau Score Band Analysis
 3.1 Settlement Rate by Score Band
@@ -54,8 +55,11 @@ CRITICAL INSIGHTS : The 500-649 Fair score band (705 loans, 6.1% of total) is co
 Recommendations 
 
 ✓	Review the 500-649 block policy — if intentional, ensure applicants are clearly communicated the rejection reason and offered alternative products or improvement pathways.
+
 ✓	Investigate why the Poor (<500) band outperforms the Good (650-749) band in settlement rate — this is a counter-intuitive finding that may reveal a gap in the scoring model.
+
 ✓	Prioritise the 750-799 and 800+ bands for premium processing tracks — they show the highest discharge amounts and lowest rejection rates.
+
 ✓	For No Score applicants (97.5% admission approval), develop a separate underwriting track with additional manual checks given the absence of bureau data.
 # 4. Geographic Analysis — Top 10 States
 4.1 Volume and Settlement by State
@@ -72,8 +76,11 @@ INSIGHTS : Orissa shows the highest settlement rate (59.3%) and lowest rejection
 Recommendations
 
 ✓	Conduct a deep-dive into Telangana and Andhra Pradesh cohorts — identify the specific stage at which cases are dropping off (pre-discharge or post-discharge).
+
 ✓	Scale operations in Orissa and Uttar Pradesh — both show strong settlement rates and low rejection, indicating good case quality and process fit.
+
 ✓	Given Kerala's dominant share (61.5%), any efficiency improvement in Kerala processing has portfolio-level impact — prioritise TAT reduction in this state.
+
 ✓	Investigate Madhya Pradesh's high rejection rate (19.1%) alongside its low discharge amount (₹17,899) — may indicate applications below minimum viable threshold.
 # 5. Insurance Type Analysis
 5.1 Corporate vs Retail
@@ -90,8 +97,11 @@ INSIGHTS : Insured loans (Corporate + Retail combined, 7,054 cases) achieve an 8
 Recommendations
 
 ✓	Insurance-backed loans should be the growth priority — their settlement rate is 65% higher than the portfolio average.
+
 ✓	Study the end-to-end processing workflow of insured loans and identify which process elements can be extended to non-insured segments.
+
 ✓	Explore partnerships with additional insurance providers to expand the insured loan book, particularly in states like Telangana and Andhra Pradesh where settlement rates are weak.
+
 ✓	Analyse why Retail achieves a slightly higher average discharge amount (₹28,004) than Corporate (₹25,922) despite a lower settlement rate — may indicate higher claim complexity.
 # 6. BRE Decision Analysis
 6.1 Green, Amber, and Red Cohorts
@@ -108,8 +118,11 @@ INSIGHTS : The Red BRE category still shows 14.0% admission approval — meaning
 Recommendations
 
 ✓	Investigate the 14% admission approval within the Red BRE category — identify who is overriding BRE decisions and under what authority. If override is policy, document and track separately.
+
 ✓	For Amber cases, reduce manual review TAT (currently 1,473 minutes LBA TAT vs 1,013 for Green) — faster decisions will improve discharge completion rates.
+
 ✓	Use Green BRE settlement benchmarks (57.4%) as the target for Amber process improvement — the goal should be bringing Amber closer to Green outcomes through faster, cleaner processing.
+
 ✓	Validate BRE rule thresholds quarterly — the fact that Red cases have a higher avg final bill (₹96,089) than Amber (₹84,786) may suggest high-value edge cases are being incorrectly classified as Red.
 # 7. Consolidated Recommendations
 The following recommendations are prioritised by expected impact and ease of implementation :
